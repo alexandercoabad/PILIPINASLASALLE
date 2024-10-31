@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Displays PILIPINASLASALLE in 7-segment display
 
 ## How to test
 
